@@ -14,6 +14,7 @@ This roadmap is designed to guide learners through:
 ---
 
 ## 📂 Repository Structure
+```
 stackfoundry-roadmap/
 │
 ├── python-basics/ # PCAP prep, exercises, quizzes
@@ -24,7 +25,7 @@ stackfoundry-roadmap/
 ├── ai-agents/ # LLMs, LangChain, Agents
 ├── cloud-mlops/ # AWS, Docker, CI/CD notes
 └── freelancing-guide/ # Resume tips, freelancing playbook
-
+```
 
 ---
 
